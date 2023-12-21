@@ -55,17 +55,3 @@ git clone git@github.com:CSYE6200-Object-Oriented-DesignFall2023/final-project-f
 mvn clean install
 ```
 
-## Contributors
-| Name                    | GitHub Username                 | Contributions                                          |
-|-------------------------|---------------------------------|--------------------------------------------------------|
-| Gokulakrishnan R        | GokulakrishnanRavichandra       | SpringBoot Setup , Spring JPA Integration and H2 DataBase connection|
-| Ajith B                 | AjithB-26                       | Add Classes - Create classes using class name, term , teachers and students|
-| Nirnay Reddy Gaddam     | NirnayReddyG                    | Login and Logout Functionality|
-| Sharan Kumar Prabhakaran| SharanKumarPrabhakaran          | Students Tab - Create a student by specifying a particular fields, delete a particular student, sort the list of students, display the list of students|
-| Ashmiya Vijayachandran  | AshmiyaVijayaChandran           | Logs Tab - Writing the CSV file whenever any action is done and reading the CSV and displaying it|
-| Pranav Prakash          | Pranavprak                      | Classes Tab - Displaying the list of classes created and ability to delete the classes and updating the classes with new students|
-| Thejus Thomson          | thejusthom                      | Teachers Tab - Create a teacher by specifying a particular fields. Delete a particular teacher. Sort the list of students. Display the list of teacher|
-
-
-## Recording link: Uploaded in Canvas
-
